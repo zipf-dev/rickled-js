@@ -1,0 +1,23 @@
+{
+    "name": "rickled",
+    "version": "0.1.0",
+    "description": "A tool to manage configurations from JSON",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zipf-dev/rickled-js.git"
+    },
+    "keywords": [
+        "yaml",
+        "config"
+    ],
+    "author": "Zipfian Science",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/zipf-dev/rickled-js/issues"
+    },
+    "homepage": "https://github.com/zipf-dev/rickled-js#readme"
+}
